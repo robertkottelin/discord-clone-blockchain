@@ -1,11 +1,11 @@
 {
   "root": true,
+  "api": {
+    "projectId": "8xieakuq",
+    "dataset": "production"
+  },
   "project": {
     "name": "discord-clone-blockchain"
-  },
-  "api": {
-    "projectId": "teoka8o6",
-    "dataset": "production"
   },
   "plugins": [
     "@sanity/base",
